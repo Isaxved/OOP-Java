@@ -1,4 +1,4 @@
-package com.isaxved.Week1;
+package com.isaxved.Week1.Week1.Thursday;
 
 public class Main {
 
