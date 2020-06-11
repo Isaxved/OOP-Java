@@ -7,7 +7,7 @@ public class Main {
         Employee one = new Employee("Azat",10,10);
         Employee two = new Employee("Az",10,10);
         Employee three = new Employee("Aza",10,10);
-
+        // Call static field by accessing it through CLASS
         one.tostring();
         System.out.println(Employee.getTotalSum());
         System.out.println(one.bonuses());
